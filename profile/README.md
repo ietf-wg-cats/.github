@@ -24,7 +24,7 @@
     
 **Running Code & Hackathons**
     
-- [Hackathons](https://github.com/ietf-wg-cats/Misc/wiki/CATS%E2%80%90related-Hackathons)
+- [Hackathons]
     
 </td></tr></tbody></table>
 </div>
