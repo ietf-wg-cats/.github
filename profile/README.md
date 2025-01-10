@@ -12,6 +12,7 @@
 
 - [CATS Problem Statement, Use Cases, and Requirements](https://github.com/ietf-wg-cats/draft-ietf-cats-usecases-requirements)
 - [A Framework for Computing-Aware Traffic Steering (CATS)](https://github.com/ietf-wg-cats/draft-ietf-cats-framework)
+- [CATS Metrics Definition](https://github.com/ietf-wg-cats/draft-ietf-cats-metric-definition)
     
 </td><td valign="top">
    
