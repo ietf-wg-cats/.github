@@ -11,7 +11,7 @@
 **Working Group Documents**
 
 - [CATS Problem Statement, Use Cases, and Requirements](https://github.com/ietf-wg-cats/draft-ietf-cats-usecases-requirements)
-- [A Framework for Computing-Aware Traffic Steering (CATS)](https://github.com/ietf-wg-cats/CATS-framework)
+- [A Framework for Computing-Aware Traffic Steering (CATS)](https://github.com/ietf-wg-cats/draft-ietf-cats-framework)
     
 </td><td valign="top">
    
